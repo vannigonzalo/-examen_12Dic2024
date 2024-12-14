@@ -15,7 +15,3 @@
 1. [Manual del Plan de Marketing Digital](sandbox:/mnt/data/Plan_de_Marketing_Digital_Proyecto.docx)
 
 2. [Planilla de Ventas Anuales](sandbox:/mnt/data/bruno_planilla_sin_tabulaciones.xlsx)
-
----
-
-Este repositorio contiene los documentos generados como parte del proyecto final, organizados según las instrucciones proporcionadas.
